@@ -1,0 +1,3 @@
+ShiftRegister	KEYWORD1
+ShiftRegisterDigitalWrite	KEYWORD1
+ShiftRegisterAssign	KEYWORD1
